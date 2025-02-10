@@ -68,3 +68,7 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.box{
+  @apply bg-purple-500 text-white rounded;
+}
