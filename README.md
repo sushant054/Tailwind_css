@@ -27,3 +27,6 @@ export default defineConfig({
 ```
 npm run dev
 ```
+### Official Website:
+
+https://tailwindcss.com/docs/installation/using-vite
